@@ -15,4 +15,3 @@ Project aplikasi eBook jadi-jadian
 ![App Screenshot](ss_2.png)
 ![App Screenshot](ss_3.png)
 ![App Screenshot](ss_4.png)
-# LabMobile3_AgengPrabaWijaya_F
